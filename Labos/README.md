@@ -24,5 +24,5 @@ Cette version ne fonctionne pas correctement car les échantillons ne sont pas e
 Cela illustre les limites du polling.
 
 ### Synthe3.X
-Version corrigée du synthétiseur : l'envoi des échatntillons se fait par interruption, le temps d'exécution de la boucle principale
-n'a plus d'influence sur la période denvoi.
+Version corrigée du synthétiseur : l'envoi des échantillons se fait par interruption, le temps d'exécution de la boucle principale
+n'a plus d'influence sur la période d'envoi.
